@@ -6,6 +6,11 @@
 
 `lists` 目錄包含以擴充程式名稱命名的文字檔。[FoxyTab](https://addons.mozilla.org/zh-TW/firefox/addon/foxytab/) 是火狐瀏覽器官方的推薦項目，內建重定向功能，也是我目前使用的附加元件。
 
+## 使用方法
+
+1. 下載並安裝 [FoxyTab](https://addons.mozilla.org/zh-TW/firefox/addon/foxytab/) 附加元件。
+2. 至「重新定向」分頁，貼上 [lists/FoxyTab.txt](lists/FoxyTab.txt) 的內容並儲存。
+
 ## 已支援的網站列表：
 
 - Facebook
